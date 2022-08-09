@@ -1,4 +1,4 @@
-
-![IlyanAzaLun's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlyanAzaLun&theme=monokai&column=7&no-frame=true&hide=contribs,prs,issues)
-![IlyanAzaLun's GitHub trophy](https://github-profile-trophy.vercel.app/?username=IlyanAzaLun&theme=monokai&column=2&no-frame=true)
-![IlyanAzaLun's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyanAzaLun&theme=monokai&column=7&no-frame=true&hide=javascript,html,css,scss)
+# IlyanAzaLun
+## Stats
+[![github stats](https://github-readme-stats.vercel.app/api?username=IlyanAzaLun&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats&hide=contribs,prs,issues)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyanAzaLun&theme=dark&hide=javascript,html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
